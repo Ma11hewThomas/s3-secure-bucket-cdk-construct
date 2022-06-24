@@ -62,6 +62,12 @@
     "aws-cdk-lib": "^2.1.0",
     "constructs": "^10.0.5"
   },
+  "dependencies": {
+    "@types/jest": "27.4.1"
+  },
+  "bundledDependencies": [
+    "@types/jest"
+  ],
   "keywords": [
     "cdk"
   ],
