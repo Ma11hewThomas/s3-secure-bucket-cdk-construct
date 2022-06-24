@@ -1,5 +1,8 @@
-import { Hello } from '../src';
 
-test('hello', () => {
-  expect(new Hello().sayHello()).toBe('hello, world!');
+import {  } from 'aws-cdk-lib/assertions'
+import { Stack } from 'aws-cdk-lib';
+
+test('Test created by a template', () => {
+  const stack = new Stack();
+  expect(stack).toBe(stack);
 });
