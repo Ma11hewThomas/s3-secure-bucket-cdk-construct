@@ -1,5 +1,3 @@
-
-import {  } from 'aws-cdk-lib/assertions'
 import { Stack } from 'aws-cdk-lib';
 
 test('Test created by a template', () => {
