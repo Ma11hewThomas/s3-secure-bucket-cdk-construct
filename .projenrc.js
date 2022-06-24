@@ -5,7 +5,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   cdkVersion: '2.1.0',
   defaultReleaseBranch: 'main',
   name: 'projen-first-attempt',
-  repositoryUrl: 'https://github.com/matthewthomasgb/projen-first-attempt.git',
+  repositoryUrl: 'https://github.com/Ma11hewThomas/s3-secure-bucket-cdk-construct.git',
 
   // deps: [],                /* Runtime dependencies of this module. */
   // description: undefined,  /* The description is just a string that helps people understand the purpose of the package. */
