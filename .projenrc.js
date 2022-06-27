@@ -4,7 +4,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
   authorAddress: 'matthewthomasgb@gmail.com',
   cdkVersion: '2.1.0',
   defaultReleaseBranch: 'main',
-  name: 's3-secure-bucket-cdk-construcjt',
+  name: 's3-secure-bucket-cdk-construct',
   repositoryUrl: 'https://github.com/Ma11hewThomas/s3-secure-bucket-cdk-construct.git',
   bundledDeps: ['@types/jest@27.4.1'],
 
