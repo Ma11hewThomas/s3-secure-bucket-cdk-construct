@@ -1,5 +1,5 @@
 {
-  "name": "projen-first-attempt",
+  "name": "@ma11hewthomas/s3-secure-bucket-cdk-construct",
   "repository": {
     "type": "git",
     "url": "https://github.com/Ma11hewThomas/s3-secure-bucket-cdk-construct.git"
