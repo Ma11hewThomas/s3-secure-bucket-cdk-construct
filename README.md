@@ -13,7 +13,7 @@ Add the following to your stack:
 ``` typescript
 import { SecureBucket } from '@ma11hewthomas/s3-secure-bucket-cdk-construct';
 
-new S3SecureBucketCdkConstruct(this, 'S3SecureBucketCdkConstruct');
+new SecureBucket(this, 'S3SecureBucketCdkConstruct');
 ```
 
 
