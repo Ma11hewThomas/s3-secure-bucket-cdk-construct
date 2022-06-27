@@ -12,5 +12,6 @@ const project = new awscdk.AwsCdkConstructLibrary({
   // description: undefined,  /* The description is just a string that helps people understand the purpose of the package. */
   // devDeps: [],             /* Build dependencies for this module. */
   packageName: '@ma11hewthomas/s3-secure-bucket-cdk-construct', /* The "name" in package.json. */
+  npmAccess: 'public',      /* The npm access level of this project. */
 });
 project.synth();
